@@ -1,4 +1,3 @@
-
 const message1=document.querySelector('#m1') 
 const message2=document.querySelector('#m2')
 
