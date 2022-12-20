@@ -1,0 +1,37 @@
+body{
+    color: rgb(174, 179, 176);
+    max-width: 700px;
+    margin: 0 auto;
+    border: 2px solid chocolate;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+header a{
+    text-decoration: none;
+    margin: 5px;
+    color: rgb(247, 228, 200);
+    
+    
+    
+}
+.nav:hover{
+    background-color: rgb(107, 112, 189);
+
+}
+.image{
+    width: 300px;
+    margin-top: 10px;
+}
+button{
+    padding: 5px;
+    background-color: lightgray;
+    color: beige;
+    cursor: pointer;
+}
+input{
+    padding: 2px;
+    border: 1px solid rgb(184, 174, 174);
+    
+
+}
