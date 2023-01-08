@@ -32,7 +32,7 @@ app.get('',(req,res)=>{
 app.get('/help',(req,res)=>{
     res.render('help',{
         name:'help page',
-        phone:'220218',
+        phone:'91- 8220170749',
         title:'Help page'
     })
 })
