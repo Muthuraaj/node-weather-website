@@ -1,22 +1,27 @@
 body{
-    color: rgb(174, 179, 176);
+    color: rgb(66, 70, 68);
     max-width: 700px;
     margin: 0 auto;
-    border: 2px solid chocolate;
+    
     padding: 5px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    
+}
+body div{
+    background-color: lightskyblue;
+    border: 2px solid chocolate;
 }
 header a{
     text-decoration: none;
     margin: 5px;
-    color: rgb(247, 228, 200);
+    color: rgb(117, 116, 113);
     
     
     
 }
 .nav:hover{
-    background-color: rgb(107, 112, 189);
+    background-color: rgb(223, 188, 108);
 
 }
 .image{
@@ -25,13 +30,15 @@ header a{
 }
 button{
     padding: 5px;
-    background-color: lightgray;
-    color: beige;
+    background-color: rgb(161, 155, 155);
+    color: rgb(243, 243, 207);
     cursor: pointer;
+    margin-top: 4px;
 }
 input{
     padding: 2px;
     border: 1px solid rgb(184, 174, 174);
+    margin-top: 4px;
     
 
 }
