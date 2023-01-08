@@ -2,7 +2,7 @@
   "name": "web-server",
   "version": "1.0.0",
   "description": "",
-  "main": "inde",
+  "main": "index",
   "engines": {
     "node": "19.x"
   },
